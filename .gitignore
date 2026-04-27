@@ -1,0 +1,8 @@
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+AI_Engineer_chetan.pdf
